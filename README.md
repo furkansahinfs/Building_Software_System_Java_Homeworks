@@ -21,3 +21,11 @@ CENG431 Tentative Election Course Homeworks
  - Inheritance, Polymorphism, Abstract Classes, Interfaces, Exceptions
  - Collections
  - Mediator Design Pattern
+
+3- Outift Rating Platform With Java Swing - Details are in OutfitRatingPlatform_WithSwing/CENG431_Midterm_3_Project.pdf
+ - SOLID Principles
+ - MVC Design Patterns
+ - Swing
+ - Observer Design Pattern
+ - Collections
+ - Inheritance, Polymorphism, Abstract Classes, Interfaces, Exceptions

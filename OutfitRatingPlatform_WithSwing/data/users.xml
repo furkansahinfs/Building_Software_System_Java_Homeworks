@@ -1,0 +1,18 @@
+<?xml version = "1.0"?>
+<users>
+	<user userName="tugkan@pers">
+		<password>123456</password>
+	</user>
+	<user userName="dilek@pers">
+		<password>123456</password>
+	</user>
+	<user userName="serhat@pers">
+		<password>123456</password>
+	</user>
+	<user userName="furkan@ogr">
+		<password>123456</password>
+	</user>
+	<user userName="arif@ogr">
+		<password>123456</password>
+	</user>
+</users>

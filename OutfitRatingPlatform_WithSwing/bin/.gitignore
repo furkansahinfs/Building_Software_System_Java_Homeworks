@@ -1,0 +1,13 @@
+/app/
+/configuration/
+/contract/
+/controller/
+/enums/
+/exception/
+/factory/
+/fileio/
+/model/
+/observation/
+/service/
+/storage/
+/view/
