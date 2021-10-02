@@ -2,7 +2,7 @@
 
 CENG431 Tentative Election Course Homeworks
 
-1- Microsfot Teams App - Details are in  TeamsApp/CENG431_Midterm1_Project.pdf
+1- Microsfot Teams App - Details are in the document TeamsApp/CENG431_Midterm1_Project.pdf
  - Object Oriented Analysis and Design
  - Object Orientation Fundamentals, Abstract Data Types
  - Inheritance, Polymorphism, Abstract Classes, Interfaces, Exceptions
@@ -13,7 +13,7 @@ CENG431 Tentative Election Course Homeworks
 Grade : 93/100
 
   
-2- Product Management App -  Details are in  ProductManagementApp/CENG431_Midterm2_Project.pdf
+2- Product Management App -  Details are in the document ProductManagementApp/CENG431_Midterm2_Project.pdf
  - Composite Design Pattern
  - State Design Pattern
  - GRASP Principles
@@ -26,7 +26,7 @@ Grade : 93/100
 Grade : 94/100
 
 
-3- Outift Rating Platform With Java Swing - Details are in OutfitRatingPlatform_WithSwing/CENG431_Midterm_3_Project.pdf
+3- Outift Rating Platform With Java Swing - Details are in the document OutfitRatingPlatform_WithSwing/CENG431_Midterm_3_Project.pdf
  - SOLID Principles
  - MVC Design Patterns
  - Swing
