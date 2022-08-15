@@ -1,6 +1,6 @@
 # Building_Software_System_Java_Homeworks
 
-CENG431 Tentative Election Course Homeworks
+CENG431 Tentative Election Course : Homeworks of Building Software Systems 
 
 1- Microsfot Teams App - Details are in the document TeamsApp/CENG431_Midterm1_Project.pdf
  - Object Oriented Analysis and Design
